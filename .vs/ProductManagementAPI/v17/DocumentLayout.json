@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\validators\\suppliervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\validators\\suppliervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\validators\\suppliervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\validators\\suppliervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -140,7 +140,7 @@
         },
         {
           "DockedWidth": 1465,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -148,13 +148,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Program.cs",
               "RelativeDocumentMoniker": "ProductManagementAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Program.cs",
-              "RelativeToolTip": "ProductManagementAPI\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Program.cs*",
+              "RelativeToolTip": "ProductManagementAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T05:09:35.988Z",
               "EditorCaption": ""
@@ -217,12 +217,11 @@
               "RelativeToolTip": "ProductManagementAPI\\Controllers\\SuppliersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T03:25:22.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T03:25:22.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SupplierValidator.cs",
               "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Validators\\SupplierValidator.cs",
               "RelativeDocumentMoniker": "ProductManagementAPI\\Validators\\SupplierValidator.cs",
@@ -255,8 +254,7 @@
               "RelativeToolTip": "ProductManagementAPI\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAqwB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T16:52:33.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T16:52:33.488Z"
             },
             {
               "$type": "Document",
@@ -268,8 +266,7 @@
               "RelativeToolTip": "ProductManagementAPI\\Services\\AuthService.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAwDAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T16:44:27.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T16:44:27.087Z"
             },
             {
               "$type": "Document",
@@ -281,8 +278,7 @@
               "RelativeToolTip": "ProductManagementAPI\\Services\\ProductService.cs",
               "ViewState": "AgIAAAkAAAAAFUu0hqscwB0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T09:31:49.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T09:31:49.386Z"
             },
             {
               "$type": "Document",
@@ -402,8 +398,7 @@
               "RelativeToolTip": "ProductManagementAPI\\DTO\\LoginModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T17:02:18.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T17:02:18.759Z"
             },
             {
               "$type": "Document",
@@ -415,8 +410,7 @@
               "RelativeToolTip": "ProductManagementAPI\\Services\\IAuthRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T16:43:30.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T16:43:30.713Z"
             },
             {
               "$type": "Document",

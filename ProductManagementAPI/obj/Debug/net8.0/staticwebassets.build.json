@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "+NALV001uximyrbTzKZO1G+RNb241L5kROWSyCs9oyE=",
+  "Hash": "bsKYtASi6k1aEfYGdUbqELRiM/OLR8OtEuCfRRxikdo=",
   "Source": "ProductManagementAPI",
   "BasePath": "_content/ProductManagementAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
