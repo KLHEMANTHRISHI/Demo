@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\validators\\suppliervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\validators\\suppliervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\services\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\services\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\dto\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\dto\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\dto\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\dto\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\services\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\services\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\services\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\services\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\filters\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\filters\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\models\\orderdetailsextended.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\models\\orderdetailsextended.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\productmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\productmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|c:\\users\\hemakl\\onedrive - capgemini\\documents\\visual studio 2022\\azure_demo\\productmanagementapi\\productmanagementapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96F2CB0-1601-486E-9EB7-2B8A426733F8}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1465,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Program.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:09:35.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductManagementAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\ProductManagementAPI.csproj",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\ProductManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\ProductManagementAPI.csproj",
+              "RelativeToolTip": "ProductManagementAPI\\ProductManagementAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T04:45:17.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\appsettings.json",
+              "RelativeToolTip": "ProductManagementAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T08:35:30.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Models\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Models\\NorthwindContext.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAA0wEwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:33:58.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwGYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:54:37.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:25:22.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupplierValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Validators\\SupplierValidator.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Validators\\SupplierValidator.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Validators\\SupplierValidator.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Validators\\SupplierValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:29:39.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:13:38.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:52:33.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:44:27.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAkAAAAAFUu0hqscwB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:31:49.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:31:21.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LogActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Filters\\LogActionFilter.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Filters\\LogActionFilter.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Filters\\LogActionFilter.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Filters\\LogActionFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:26:12.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorModel.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Filters\\ErrorModel.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Filters\\ErrorModel.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Filters\\ErrorModel.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Filters\\ErrorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:30:49.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Models\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:20:24.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDetailsExtended.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\OrderDetailsExtended.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Models\\OrderDetailsExtended.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\OrderDetailsExtended.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Models\\OrderDetailsExtended.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:41:49.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Services\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Services\\SupplierService.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Services\\SupplierService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:20:44.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\User.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:21:56.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\Role.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Models\\Role.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:22:19.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductManagementAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T16:35:19.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\DTO\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\DTO\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\DTO\\LoginModel.cs",
+              "RelativeToolTip": "ProductManagementAPI\\DTO\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:02:18.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Services\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Services\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Services\\IAuthRepository.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Services\\IAuthRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:43:30.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Services\\ISupplierRepository.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Services\\ISupplierRepository.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Services\\ISupplierRepository.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Services\\ISupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:19:24.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "ProductManagementAPI\\DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:10:34.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupplierDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\DTO\\SupplierDTO.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\DTO\\SupplierDTO.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\DTO\\SupplierDTO.cs",
+              "RelativeToolTip": "ProductManagementAPI\\DTO\\SupplierDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:38:29.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Services\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Services\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Services\\IProductRepository.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Services\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:52:06.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\Supplier.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:38:38.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Models\\Product.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswBUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:36:42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\DTO\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\DTO\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\HEMAKL\\OneDrive - Capgemini\\Documents\\Visual Studio 2022\\Azure_Demo\\ProductManagementAPI\\ProductManagementAPI\\DTO\\MappingProfile.cs",
+              "RelativeToolTip": "ProductManagementAPI\\DTO\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:03:19.752Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
